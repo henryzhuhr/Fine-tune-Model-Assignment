@@ -1,0 +1,2 @@
+Name:fc.weight, Diff: 26.9937.
+Name:fc.bias, Diff: 0.2158.

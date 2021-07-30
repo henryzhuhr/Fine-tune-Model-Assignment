@@ -1,0 +1,6 @@
+Name:fc.0.weight, Diff: 19.1555.
+Name:fc.0.bias, Diff: 0.2111.
+Name:fc.2.weight, Diff: 9.4367.
+Name:fc.2.bias, Diff: 0.1978.
+Name:fc.4.weight, Diff: 8.5362.
+Name:fc.4.bias, Diff: 0.2199.

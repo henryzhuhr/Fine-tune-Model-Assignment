@@ -1,0 +1,12 @@
+Name:layer3.0.conv1.weight, Diff: 4.3728.
+Name:layer3.0.conv2.weight, Diff: 6.0340.
+Name:layer3.0.downsample.0.weight, Diff: 1.4078.
+Name:layer3.1.conv1.weight, Diff: 5.8251.
+Name:layer3.1.conv2.weight, Diff: 5.9804.
+Name:layer4.0.conv1.weight, Diff: 8.8028.
+Name:layer4.0.conv2.weight, Diff: 12.5910.
+Name:layer4.0.downsample.0.weight, Diff: 2.9870.
+Name:layer4.1.conv1.weight, Diff: 12.9244.
+Name:layer4.1.conv2.weight, Diff: 15.0810.
+Name:fc.weight, Diff: 3.1903.
+Name:fc.bias, Diff: 0.0233.
